@@ -1,0 +1,8 @@
+/home/kpit/Desktop/WalkieTalkie/build/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/WalkieTalkie/build/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/WalkieTalkie/build/Client/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/WalkieTalkie/build/Client/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/WalkieTalkie/build/Client/CMakeFiles/ClientApp.dir
+/home/kpit/Desktop/WalkieTalkie/build/Server/CMakeFiles/rebuild_cache.dir
+/home/kpit/Desktop/WalkieTalkie/build/Server/CMakeFiles/edit_cache.dir
+/home/kpit/Desktop/WalkieTalkie/build/Server/CMakeFiles/ServerApp.dir

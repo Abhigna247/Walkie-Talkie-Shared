@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kpit/Desktop/WalkieTalkie/Client/ClientMain.cpp
+/home/kpit/Downloads/Walkie-Talkie/Client/api/ClientSocket.h
+-
+
+/home/kpit/Downloads/Walkie-Talkie/Client/api/ClientSocket.h
+iostream
+-
+mutex
+-
+vector
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kpit/Desktop/WalkieTalkie/Server/ServerMain.cpp
+/home/kpit/Downloads/Walkie-Talkie/Server/api/ServerSocket.h
+-
+iostream
+-
+
+/home/kpit/Downloads/Walkie-Talkie/Server/api/ServerSocket.h
+mutex
+-
+iostream
+-
+vector
+-
+

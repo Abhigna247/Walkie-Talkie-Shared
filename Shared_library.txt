@@ -1,0 +1,3 @@
+In the Walkie-Talkie folder i am creating the shared libraries of the Client and Server 
+And in WalkieTalkie i am just writing the main.cpp for client and Server and 
+i included these shared libraries in the CMakeLists.txt file ANd accesing the data

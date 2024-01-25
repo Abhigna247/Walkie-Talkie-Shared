@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ClientApp.dir/ClientMain.cpp.o  -o ClientApp  -Wl,-rpath,/home/kpit/Downloads/Walkie-Talkie/Client/lib /home/kpit/Downloads/Walkie-Talkie/Client/lib/libClientSocket.so -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ServerApp.dir/ServerMain.cpp.o  -o ServerApp  -Wl,-rpath,/home/kpit/Downloads/Walkie-Talkie/Server/lib /home/kpit/Downloads/Walkie-Talkie/Server/lib/libServerSocket.so -lpthread 
